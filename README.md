@@ -8,8 +8,8 @@ cargo run
 
 ## Crew name
 
-_not chosen yet_
+bearsw_
 
 ## Members
 
-- _nobody has signed on yet_
+Nina_
